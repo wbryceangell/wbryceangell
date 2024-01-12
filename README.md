@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AnnotatedJS (soon to be an open source project 🤞)
+- 🔭 I’m currently working on [AnnotatedJS](https://github.com/Fork-Git-It/AnnotatedJS)
 - 🌱 I’m currently learning [React Test Driven Development](https://www.packtpub.com/product/mastering-react-test-driven-development-second-edition/9781803247120)
 - 💬 Ask me about what I am reading 📖. Usually it consists of a non-fiction book in the technology space and a fiction novel set in a high fantasy universe
 - 📫 How to reach me: wbryceangell@gmail.com or devdecaf@gmail.com
