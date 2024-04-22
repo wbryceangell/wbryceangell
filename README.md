@@ -5,4 +5,4 @@
 - 💬 Ask me about what I am reading 📖. Usually it consists of a non-fiction book in the technology space and a fiction novel set in a high fantasy universe
 - 📫 How to reach me: devdecaf@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am the organizer for a JavaScript meetup group. If in the Houston area, check it out [here](https://www.meetup.com/all-things-js/)!
+- ⚡ Fun fact: I am the organizer for a JavaScript meetup group. If in the Houston area, check it out [here](https://www.allthingsjs.org/)!
